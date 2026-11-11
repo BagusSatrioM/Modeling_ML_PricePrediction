@@ -1,0 +1,19 @@
+Fruit,BasePrice_IDR_kg,GoodQuality_IDR_kg,BadQuality_IDR_kg,MarketIndo_IDR_kg,Form,IndonesianMarketNote,Source,n_obs,n_good_kw,n_bad_kw,good_method,bad_method,date_min,date_max
+Alpukat,45796,48990,19330,45796,Fresh,Local common,"scraping:Shopee,Tokopedia",29,16,5,kata_kunci,kata_kunci,2024-01-31,2026-12-31
+Anggur,58396,65510,53628,58396,Fresh,Local common,"scraping:Shopee,Tokopedia",25,18,2,kata_kunci,kuantil_P25,2024-01-31,2026-12-31
+Apel,33982,35710,17272,33982,Fresh,Local common,"scraping:Shopee,Tokopedia",25,18,5,kata_kunci,kata_kunci,2024-01-31,2026-10-31
+Buah Naga,23331,25121,20136,23331,Fresh,Local common,"scraping:Shopee,Tokopedia",24,16,4,kata_kunci,kuantil_P25,2024-02-29,2026-09-30
+Delima,51899,61125,28224,51899,Fresh,Local common,"scraping:Shopee,Tokopedia",27,16,7,kata_kunci,kata_kunci,2024-01-31,2026-12-31
+Jambu Biji,23228,26054,12196,23228,Fresh,Local common,"scraping:Shopee,Tokopedia",39,25,8,kata_kunci,kata_kunci,2024-01-31,2026-12-31
+Jeruk,28492,32183,13452,28492,Fresh,Local common,"scraping:Shopee,Tokopedia",34,16,9,kata_kunci,kata_kunci,2024-01-31,2026-12-31
+Jeruk Nipis,20910,23041,11002,20910,Fresh,Local common,"scraping:Shopee,Tokopedia",44,26,7,kata_kunci,kata_kunci,2024-01-31,2026-12-31
+Kelengkeng,41666,47494,20600,41666,Fresh,Local common,"scraping:Shopee,Tokopedia",32,19,7,kata_kunci,kata_kunci,2024-01-31,2026-11-30
+Mangga,26657,27422,23016,26657,Fresh,Local common,"scraping:Shopee,Tokopedia",33,24,2,kata_kunci,kuantil_P25,2024-01-31,2026-12-31
+Melon,16520,19329,8180,16520,Fresh,Local common,"scraping:Shopee,Tokopedia",34,17,8,kata_kunci,kata_kunci,2024-02-29,2026-12-31
+Nanas,13598,17131,7684,13598,Fresh,Local common,"scraping:Shopee,Tokopedia",29,15,10,kata_kunci,kata_kunci,2024-02-29,2026-12-31
+Padi,15144,18574,7503,15144,Fresh,Local common,"scraping:Shopee,Tokopedia",30,17,8,kata_kunci,kata_kunci,2024-04-30,2026-12-31
+Pepaya,11792,13042,6216,11792,Fresh,Local common,"scraping:Shopee,Tokopedia",28,18,5,kata_kunci,kata_kunci,2024-02-29,2026-11-30
+Pisang,16751,18772,8207,16751,Fresh,Local common,"scraping:Shopee,Tokopedia",31,19,9,kata_kunci,kata_kunci,2024-02-29,2026-11-30
+Salak,19416,21702,15370,19416,Fresh,Local common,"scraping:Shopee,Tokopedia",27,19,3,kata_kunci,kuantil_P25,2024-03-31,2026-10-31
+Semangka,8742,9635,4591,8742,Fresh,Local common,"scraping:Shopee,Tokopedia",21,12,5,kata_kunci,kata_kunci,2024-01-31,2026-04-30
+Stroberi,69996,75225,66860,69996,Fresh,Local common,"scraping:Shopee,Tokopedia",25,17,1,kata_kunci,kuantil_P25,2024-01-31,2026-09-30
